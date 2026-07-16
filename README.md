@@ -58,3 +58,15 @@ This repository contains topic-wise solutions aimed at improving problem-solving
 Maintaining consistency by solving problems daily and continuously improving algorithmic thinking.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0238-product-of-array-except-self) |
+<!---LeetCode Topics End-->
