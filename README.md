@@ -49,6 +49,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0334-increasing-triplet-subsequence) |
 ## Prefix Sum
 |  |
@@ -61,6 +62,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0443-string-compression) |
 ## String
 |  |
