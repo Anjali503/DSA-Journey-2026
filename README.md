@@ -63,9 +63,15 @@ Maintaining consistency by solving problems daily and continuously improving alg
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0443-string-compression) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
