@@ -1,10 +1,9 @@
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {
-
         long long sum = 0;
 
-        // First window
+        // Calculate the sum of the first window
         for (int i = 0; i < k; i++) {
             sum += nums[i];
         }
