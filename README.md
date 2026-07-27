@@ -53,11 +53,13 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | [0283-move-zeroes](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 ## Greedy
 |  |
 | ------- |
@@ -93,5 +95,10 @@ Maintaining consistency by solving problems daily and continuously improving alg
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
