@@ -55,6 +55,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | [0643-maximum-average-subarray-i](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Prefix Sum
 |  |
 | ------- |
