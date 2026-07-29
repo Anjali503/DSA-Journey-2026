@@ -50,6 +50,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0334-increasing-triplet-subsequence) |
@@ -75,6 +76,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0443-string-compression) |
@@ -109,4 +111,8 @@ Maintaining consistency by solving problems daily and continuously improving alg
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
