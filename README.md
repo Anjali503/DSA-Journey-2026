@@ -116,5 +116,6 @@ Maintaining consistency by solving problems daily and continuously improving alg
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
