@@ -71,6 +71,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0334-increasing-triplet-subsequence) |
+| [1328-break-a-palindrome](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1328-break-a-palindrome) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | ------- |
 | [0392-is-subsequence](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0443-string-compression) |
+| [1328-break-a-palindrome](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
