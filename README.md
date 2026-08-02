@@ -62,6 +62,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Anjali503/DSA-Journey-2026/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 | ------- |
 | [0001-two-sum](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0001-two-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Anjali503/DSA-Journey-2026/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
