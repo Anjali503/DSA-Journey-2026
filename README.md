@@ -48,6 +48,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@ Maintaining consistency by solving problems daily and continuously improving alg
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Anjali503/DSA-Journey-2026/tree/master/0001-two-sum) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Anjali503/DSA-Journey-2026/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
